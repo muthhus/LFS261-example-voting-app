@@ -73,7 +73,8 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-assembly-plugin</artifactId>
-        <executions>
+        <version>3.6.0</verion>
+	 <executions>
           <execution>
             <goals>
               <goal>attached</goal>
